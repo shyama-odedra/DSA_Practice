@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0001-two-sum/) | Easy |
 | [0046-permutations](https://github.com/shyama-odedra/DSA_Practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
+| [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
