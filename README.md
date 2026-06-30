@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/shyama-odedra/DSA_Practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
 | [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
