@@ -47,9 +47,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
