@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
+| [0201-bitwise-and-of-numbers-range](https://github.com/shyama-odedra/DSA_Practice/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
