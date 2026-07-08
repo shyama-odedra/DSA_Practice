@@ -51,11 +51,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -123,5 +125,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
