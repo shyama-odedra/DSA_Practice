@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -138,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
