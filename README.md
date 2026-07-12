@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/shyama-odedra/DSA_Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/shyama-odedra/DSA_Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0739-daily-temperatures](https://github.com/shyama-odedra/DSA_Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -146,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/shyama-odedra/DSA_Practice/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
