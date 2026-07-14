@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/shyama-odedra/DSA_Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/shyama-odedra/DSA_Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/shyama-odedra/DSA_Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
