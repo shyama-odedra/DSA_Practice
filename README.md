@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/shyama-odedra/DSA_Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shyama-odedra/DSA_Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shyama-odedra/DSA_Practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shyama-odedra/DSA_Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Hash Table
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shyama-odedra/DSA_Practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/shyama-odedra/DSA_Practice/tree/main/0739-daily-temperatures/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shyama-odedra/DSA_Practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
