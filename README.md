@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/shyama-odedra/DSA_Practice/tree/main/0062-unique-paths/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/shyama-odedra/DSA_Practice/tree/main/0198-house-robber/) | Medium |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/shyama-odedra/DSA_Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/shyama-odedra/DSA_Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/shyama-odedra/DSA_Practice/tree/main/0739-daily-temperatures/) | Medium |
