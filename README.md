@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/shyama-odedra/DSA_Practice/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shyama-odedra/DSA_Practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shyama-odedra/DSA_Practice/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,8 +233,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0394-decode-string/) | Medium |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 <!---LeetCode Topics End-->
