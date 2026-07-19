@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/shyama-odedra/DSA_Practice/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [2012-sum-of-beauty-in-the-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shyama-odedra/DSA_Practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Hash Table
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/shyama-odedra/DSA_Practice/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shyama-odedra/DSA_Practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0394-decode-string/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -274,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
