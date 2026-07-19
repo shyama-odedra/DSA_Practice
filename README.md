@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2012-sum-of-beauty-in-the-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shyama-odedra/DSA_Practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0394-decode-string/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
