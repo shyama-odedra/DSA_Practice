@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shyama-odedra/DSA_Practice/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0207-course-schedule](https://github.com/shyama-odedra/DSA_Practice/tree/main/0207-course-schedule/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shyama-odedra/DSA_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shyama-odedra/DSA_Practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
