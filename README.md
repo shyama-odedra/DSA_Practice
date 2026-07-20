@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0394-decode-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/shyama-odedra/DSA_Practice/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shyama-odedra/DSA_Practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
