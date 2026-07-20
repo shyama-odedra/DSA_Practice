@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shyama-odedra/DSA_Practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shyama-odedra/DSA_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/shyama-odedra/DSA_Practice/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2235-add-two-integers/) | Easy |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,4 +337,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 <!---LeetCode Topics End-->
