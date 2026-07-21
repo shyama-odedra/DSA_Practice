@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/shyama-odedra/DSA_Practice/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/shyama-odedra/DSA_Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shyama-odedra/DSA_Practice/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/shyama-odedra/DSA_Practice/tree/main/0207-course-schedule/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/shyama-odedra/DSA_Practice/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shyama-odedra/DSA_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [1260-shift-2d-grid](https://github.com/shyama-odedra/DSA_Practice/tree/main/1260-shift-2d-grid/) | Easy |
@@ -291,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shyama-odedra/DSA_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shyama-odedra/DSA_Practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Greedy
