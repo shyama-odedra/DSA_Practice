@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/shyama-odedra/DSA_Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shyama-odedra/DSA_Practice/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/shyama-odedra/DSA_Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/shyama-odedra/DSA_Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/shyama-odedra/DSA_Practice/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shyama-odedra/DSA_Practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -310,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/shyama-odedra/DSA_Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shyama-odedra/DSA_Practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
