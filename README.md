@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0518-coin-change-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shyama-odedra/DSA_Practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyama-odedra/DSA_Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
