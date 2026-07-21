@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0394-decode-string/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
