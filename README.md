@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/shyama-odedra/DSA_Practice/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/shyama-odedra/DSA_Practice/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
+| [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/shyama-odedra/DSA_Practice/tree/main/0062-unique-paths/) | Medium |
+| [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/shyama-odedra/DSA_Practice/tree/main/0198-house-robber/) | Medium |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/shyama-odedra/DSA_Practice/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/shyama-odedra/DSA_Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0394-decode-string/) | Medium |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
@@ -302,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shyama-odedra/DSA_Practice/tree/main/0739-daily-temperatures/) | Medium |
