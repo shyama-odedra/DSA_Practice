@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/shyama-odedra/DSA_Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shyama-odedra/DSA_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/shyama-odedra/DSA_Practice/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/shyama-odedra/DSA_Practice/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shyama-odedra/DSA_Practice/tree/main/1260-shift-2d-grid/) | Easy |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/shyama-odedra/DSA_Practice/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shyama-odedra/DSA_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/shyama-odedra/DSA_Practice/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/shyama-odedra/DSA_Practice/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/shyama-odedra/DSA_Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/shyama-odedra/DSA_Practice/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shyama-odedra/DSA_Practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
