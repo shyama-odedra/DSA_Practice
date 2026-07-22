@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shyama-odedra/DSA_Practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/shyama-odedra/DSA_Practice/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shyama-odedra/DSA_Practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -422,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/shyama-odedra/DSA_Practice/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
