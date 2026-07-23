@@ -244,11 +244,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/shyama-odedra/DSA_Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/shyama-odedra/DSA_Practice/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/shyama-odedra/DSA_Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shyama-odedra/DSA_Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/shyama-odedra/DSA_Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,4 +439,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/shyama-odedra/DSA_Practice/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/shyama-odedra/DSA_Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
