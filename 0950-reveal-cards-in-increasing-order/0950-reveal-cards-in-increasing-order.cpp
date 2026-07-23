@@ -1,15 +1,30 @@
+#include <vector>
+#include <algorithm>
+#include <queue>
+
+using namespace std;
+
 class Solution {
 public:
     vector<int> deckRevealedIncreasing(vector<int>& deck) {
-        sort(deck.rbegin(), deck.rend());
-        deque<int> d;
-        d.push_back(deck[0]);
-        for(int i=1;i<deck.size();i++){
-            d.push_front(d.back());
-            d.pop_back();
-            d.push_front(deck[i]);
+        int n = deck.size();
+        sort(deck.begin(), deck.end());
+        
+        queue<int> q;
+        for (int i = 0; i < n; ++i) {
+            q.push(i);
         }
-        vector<int> res(d.begin(), d.end());
-        return res;
+        
+        vector<int> result(n);
+        for (int card : deck) {
+            result[q.front()] = card;
+            q.pop();
+            if (!q.empty()) {
+                q.push(q.front());
+                q.pop();
+            }
+        }
+        
+        return result;
     }
 };
