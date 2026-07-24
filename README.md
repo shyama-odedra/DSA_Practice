@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0541-reverse-string-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/shyama-odedra/DSA_Practice/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shyama-odedra/DSA_Practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/shyama-odedra/DSA_Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
