@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/shyama-odedra/DSA_Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/shyama-odedra/DSA_Practice/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/shyama-odedra/DSA_Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/shyama-odedra/DSA_Practice/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/shyama-odedra/DSA_Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/shyama-odedra/DSA_Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/shyama-odedra/DSA_Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
