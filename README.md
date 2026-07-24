@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shyama-odedra/DSA_Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shyama-odedra/DSA_Practice/tree/main/0283-move-zeroes/) | Easy |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
 ## Probability and Statistics
