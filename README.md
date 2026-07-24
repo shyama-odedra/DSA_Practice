@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/shyama-odedra/DSA_Practice/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shyama-odedra/DSA_Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/shyama-odedra/DSA_Practice/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shyama-odedra/DSA_Practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shyama-odedra/DSA_Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/shyama-odedra/DSA_Practice/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shyama-odedra/DSA_Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shyama-odedra/DSA_Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/shyama-odedra/DSA_Practice/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shyama-odedra/DSA_Practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/shyama-odedra/DSA_Practice/tree/main/0844-backspace-string-compare/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/shyama-odedra/DSA_Practice/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shyama-odedra/DSA_Practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 ## Simulation
