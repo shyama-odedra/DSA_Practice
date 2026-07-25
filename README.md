@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shyama-odedra/DSA_Practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/shyama-odedra/DSA_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/shyama-odedra/DSA_Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shyama-odedra/DSA_Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
