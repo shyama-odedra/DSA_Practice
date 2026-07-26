@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/shyama-odedra/DSA_Practice/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shyama-odedra/DSA_Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0912-sort-an-array/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shyama-odedra/DSA_Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0412-fizz-buzz](https://github.com/shyama-odedra/DSA_Practice/tree/main/0412-fizz-buzz/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/shyama-odedra/DSA_Practice/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 | [1323-maximum-69-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/1323-maximum-69-number/) | Easy |
