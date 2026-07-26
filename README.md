@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0641-design-circular-deque](https://github.com/shyama-odedra/DSA_Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/shyama-odedra/DSA_Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/shyama-odedra/DSA_Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/shyama-odedra/DSA_Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [0901-online-stock-span](https://github.com/shyama-odedra/DSA_Practice/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/shyama-odedra/DSA_Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/shyama-odedra/DSA_Practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/shyama-odedra/DSA_Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/shyama-odedra/DSA_Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [0649-dota2-senate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/shyama-odedra/DSA_Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shyama-odedra/DSA_Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -503,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/shyama-odedra/DSA_Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/shyama-odedra/DSA_Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Probability and Statistics
 | Problem Name | Difficulty |
