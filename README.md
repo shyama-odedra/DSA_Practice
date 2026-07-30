@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2235-add-two-integers/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/1323-maximum-69-number/) | Easy |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
