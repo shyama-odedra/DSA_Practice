@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [0090-subsets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/shyama-odedra/DSA_Practice/tree/main/0134-gas-station/) | Medium |
@@ -129,12 +130,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/shyama-odedra/DSA_Practice/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/shyama-odedra/DSA_Practice/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shyama-odedra/DSA_Practice/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0868-binary-gap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0868-binary-gap/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
