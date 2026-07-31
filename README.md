@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0518-coin-change-ii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -134,12 +135,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shyama-odedra/DSA_Practice/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0868-binary-gap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0868-binary-gap/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shyama-odedra/DSA_Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0518-coin-change-ii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shyama-odedra/DSA_Practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -616,4 +620,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/shyama-odedra/DSA_Practice/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->
