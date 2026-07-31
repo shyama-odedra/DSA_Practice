@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/shyama-odedra/DSA_Practice/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/shyama-odedra/DSA_Practice/tree/main/0283-move-zeroes/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/shyama-odedra/DSA_Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
+| [0212-word-search-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0494-target-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Bit Manipulation
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/shyama-odedra/DSA_Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
+| [0212-word-search-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/shyama-odedra/DSA_Practice/tree/main/0383-ransom-note/) | Easy |
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [1260-shift-2d-grid](https://github.com/shyama-odedra/DSA_Practice/tree/main/1260-shift-2d-grid/) | Easy |
@@ -371,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
+| [0212-word-search-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0212-word-search-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
