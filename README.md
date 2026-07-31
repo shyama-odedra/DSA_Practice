@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/shyama-odedra/DSA_Practice/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/shyama-odedra/DSA_Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/shyama-odedra/DSA_Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/shyama-odedra/DSA_Practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0047-permutations-ii/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/shyama-odedra/DSA_Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/shyama-odedra/DSA_Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/shyama-odedra/DSA_Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/shyama-odedra/DSA_Practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0047-permutations-ii/) | Medium |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/shyama-odedra/DSA_Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/shyama-odedra/DSA_Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0212-word-search-ii/) | Hard |
