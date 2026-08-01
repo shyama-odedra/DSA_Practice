@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/shyama-odedra/DSA_Practice/tree/main/0031-next-permutation/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0148-sort-list/) | Medium |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shyama-odedra/DSA_Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
