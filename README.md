@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shyama-odedra/DSA_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shyama-odedra/DSA_Practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/shyama-odedra/DSA_Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shyama-odedra/DSA_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shyama-odedra/DSA_Practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/shyama-odedra/DSA_Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -574,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shyama-odedra/DSA_Practice/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shyama-odedra/DSA_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shyama-odedra/DSA_Practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/shyama-odedra/DSA_Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
