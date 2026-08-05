@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/shyama-odedra/DSA_Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/shyama-odedra/DSA_Practice/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/shyama-odedra/DSA_Practice/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0202-happy-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0292-nim-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/shyama-odedra/DSA_Practice/tree/main/0412-fizz-buzz/) | Easy |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/shyama-odedra/DSA_Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shyama-odedra/DSA_Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/shyama-odedra/DSA_Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0541-reverse-string-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0541-reverse-string-ii/) | Easy |
@@ -702,4 +705,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0292-nim-game/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
