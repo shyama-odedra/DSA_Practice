@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shyama-odedra/DSA_Practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0788-rotated-digits](https://github.com/shyama-odedra/DSA_Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shyama-odedra/DSA_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/shyama-odedra/DSA_Practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/shyama-odedra/DSA_Practice/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
+| [0788-rotated-digits](https://github.com/shyama-odedra/DSA_Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0877-stone-game/) | Medium |
 | [1323-maximum-69-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/1323-maximum-69-number/) | Easy |
