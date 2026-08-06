@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2235-add-two-integers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/shyama-odedra/DSA_Practice/tree/main/1291-sequential-digits/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
