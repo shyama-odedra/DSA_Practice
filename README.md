@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/shyama-odedra/DSA_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1323-maximum-69-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/1323-maximum-69-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -745,10 +748,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0292-nim-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0292-nim-game/) | Easy |
+| [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -765,4 +770,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
