@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyama-odedra/DSA_Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shyama-odedra/DSA_Practice/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shyama-odedra/DSA_Practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shyama-odedra/DSA_Practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shyama-odedra/DSA_Practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shyama-odedra/DSA_Practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0641-design-circular-deque](https://github.com/shyama-odedra/DSA_Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [0901-online-stock-span](https://github.com/shyama-odedra/DSA_Practice/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/shyama-odedra/DSA_Practice/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -679,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/shyama-odedra/DSA_Practice/tree/main/0641-design-circular-deque/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -706,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/shyama-odedra/DSA_Practice/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/shyama-odedra/DSA_Practice/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -788,4 +793,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
