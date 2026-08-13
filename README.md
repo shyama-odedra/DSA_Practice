@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/shyama-odedra/DSA_Practice/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shyama-odedra/DSA_Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shyama-odedra/DSA_Practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shyama-odedra/DSA_Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/shyama-odedra/DSA_Practice/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -697,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/shyama-odedra/DSA_Practice/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shyama-odedra/DSA_Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -725,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shyama-odedra/DSA_Practice/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shyama-odedra/DSA_Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
