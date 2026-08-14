@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/shyama-odedra/DSA_Practice/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2012-sum-of-beauty-in-the-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shyama-odedra/DSA_Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/shyama-odedra/DSA_Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -668,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/shyama-odedra/DSA_Practice/tree/main/0383-ransom-note/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
