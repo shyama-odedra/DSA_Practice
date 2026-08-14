@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/shyama-odedra/DSA_Practice/tree/main/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shyama-odedra/DSA_Practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/shyama-odedra/DSA_Practice/tree/main/0735-asteroid-collision/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/shyama-odedra/DSA_Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/shyama-odedra/DSA_Practice/tree/main/0641-design-circular-deque/) | Medium |
+| [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 | [0901-online-stock-span](https://github.com/shyama-odedra/DSA_Practice/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/shyama-odedra/DSA_Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
@@ -686,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/shyama-odedra/DSA_Practice/tree/main/0641-design-circular-deque/) | Medium |
+| [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
 ## Probability and Statistics
@@ -802,4 +806,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
