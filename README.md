@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shyama-odedra/DSA_Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shyama-odedra/DSA_Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shyama-odedra/DSA_Practice/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shyama-odedra/DSA_Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
