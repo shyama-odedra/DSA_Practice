@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/shyama-odedra/DSA_Practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shyama-odedra/DSA_Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/shyama-odedra/DSA_Practice/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyama-odedra/DSA_Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shyama-odedra/DSA_Practice/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0868-binary-gap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0868-binary-gap/) | Easy |
 | [0980-unique-paths-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0980-unique-paths-iii/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shyama-odedra/DSA_Practice/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/1323-maximum-69-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shyama-odedra/DSA_Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
