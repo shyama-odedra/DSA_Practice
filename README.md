@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shyama-odedra/DSA_Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/shyama-odedra/DSA_Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
