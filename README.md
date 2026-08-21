@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shyama-odedra/DSA_Practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shyama-odedra/DSA_Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-binary-gap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0868-binary-gap/) | Easy |
 | [0980-unique-paths-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shyama-odedra/DSA_Practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shyama-odedra/DSA_Practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shyama-odedra/DSA_Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shyama-odedra/DSA_Practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## String
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2235-add-two-integers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shyama-odedra/DSA_Practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -587,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/shyama-odedra/DSA_Practice/tree/main/0062-unique-paths/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shyama-odedra/DSA_Practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Union-Find
@@ -677,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shyama-odedra/DSA_Practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shyama-odedra/DSA_Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
