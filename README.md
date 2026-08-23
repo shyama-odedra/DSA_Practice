@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1927-sum-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1927-sum-game/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shyama-odedra/DSA_Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/shyama-odedra/DSA_Practice/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/shyama-odedra/DSA_Practice/tree/main/1563-stone-game-v/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1927-sum-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1927-sum-game/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/1323-maximum-69-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1927-sum-game/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shyama-odedra/DSA_Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -808,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/shyama-odedra/DSA_Practice/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
