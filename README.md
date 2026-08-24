@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/shyama-odedra/DSA_Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/shyama-odedra/DSA_Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/shyama-odedra/DSA_Practice/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shyama-odedra/DSA_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/shyama-odedra/DSA_Practice/tree/main/0383-ransom-note/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0212-word-search-ii/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/shyama-odedra/DSA_Practice/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/shyama-odedra/DSA_Practice/tree/main/0290-word-pattern/) | Easy |
 | [0306-additive-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0306-additive-number/) | Medium |
 | [0383-ransom-note](https://github.com/shyama-odedra/DSA_Practice/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0394-decode-string/) | Medium |
