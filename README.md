@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shyama-odedra/DSA_Practice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/shyama-odedra/DSA_Practice/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2012-sum-of-beauty-in-the-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/shyama-odedra/DSA_Practice/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/shyama-odedra/DSA_Practice/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Divide and Conquer
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/shyama-odedra/DSA_Practice/tree/main/1563-stone-game-v/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1927-sum-game/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -651,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyama-odedra/DSA_Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1872-stone-game-viii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/shyama-odedra/DSA_Practice/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -815,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/shyama-odedra/DSA_Practice/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 ## Brainteaser
@@ -827,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0292-nim-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -851,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
