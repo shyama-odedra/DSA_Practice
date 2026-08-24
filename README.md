@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2141-maximum-running-time-of-n-computers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/shyama-odedra/DSA_Practice/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shyama-odedra/DSA_Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/shyama-odedra/DSA_Practice/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shyama-odedra/DSA_Practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/shyama-odedra/DSA_Practice/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/shyama-odedra/DSA_Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/shyama-odedra/DSA_Practice/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shyama-odedra/DSA_Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -709,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/shyama-odedra/DSA_Practice/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
