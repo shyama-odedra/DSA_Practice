@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/shyama-odedra/DSA_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/shyama-odedra/DSA_Practice/tree/main/0383-ransom-note/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/shyama-odedra/DSA_Practice/tree/main/0306-additive-number/) | Medium |
 | [0383-ransom-note](https://github.com/shyama-odedra/DSA_Practice/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0394-decode-string/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0412-fizz-buzz](https://github.com/shyama-odedra/DSA_Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0912-sort-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0912-sort-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -596,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0567-permutation-in-string/) | Medium |
