@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2563-count-the-number-of-fair-pairs](https://github.com/shyama-odedra/DSA_Practice/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shyama-odedra/DSA_Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/shyama-odedra/DSA_Practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-binary-gap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0868-binary-gap/) | Easy |
 | [0980-unique-paths-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/shyama-odedra/DSA_Practice/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shyama-odedra/DSA_Practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
