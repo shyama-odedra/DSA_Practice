@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shyama-odedra/DSA_Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shyama-odedra/DSA_Practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shyama-odedra/DSA_Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0706-design-hashmap/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0912-sort-an-array/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shyama-odedra/DSA_Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/shyama-odedra/DSA_Practice/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shyama-odedra/DSA_Practice/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -807,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0912-sort-an-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -890,4 +894,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0706-design-hashmap/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
