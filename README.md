@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shyama-odedra/DSA_Practice/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shyama-odedra/DSA_Practice/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shyama-odedra/DSA_Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/shyama-odedra/DSA_Practice/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shyama-odedra/DSA_Practice/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -730,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shyama-odedra/DSA_Practice/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shyama-odedra/DSA_Practice/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
