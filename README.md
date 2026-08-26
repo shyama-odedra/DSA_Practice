@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shyama-odedra/DSA_Practice/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2222-number-of-ways-to-select-buildings](https://github.com/shyama-odedra/DSA_Practice/tree/main/2222-number-of-ways-to-select-buildings/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shyama-odedra/DSA_Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyama-odedra/DSA_Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shyama-odedra/DSA_Practice/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shyama-odedra/DSA_Practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Monotonic Stack
