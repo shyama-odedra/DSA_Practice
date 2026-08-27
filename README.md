@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shyama-odedra/DSA_Practice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shyama-odedra/DSA_Practice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -665,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shyama-odedra/DSA_Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shyama-odedra/DSA_Practice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -713,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3499-maximize-active-section-with-trade-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/shyama-odedra/DSA_Practice/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shyama-odedra/DSA_Practice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -747,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/shyama-odedra/DSA_Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shyama-odedra/DSA_Practice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
