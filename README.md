@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shyama-odedra/DSA_Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/shyama-odedra/DSA_Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/shyama-odedra/DSA_Practice/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [2029-stone-game-ix](https://github.com/shyama-odedra/DSA_Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shyama-odedra/DSA_Practice/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shyama-odedra/DSA_Practice/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
