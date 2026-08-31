@@ -788,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shyama-odedra/DSA_Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/shyama-odedra/DSA_Practice/tree/main/1472-design-browser-history/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shyama-odedra/DSA_Practice/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
