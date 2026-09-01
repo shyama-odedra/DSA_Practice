@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shyama-odedra/DSA_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0912-sort-an-array/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/shyama-odedra/DSA_Practice/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shyama-odedra/DSA_Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/shyama-odedra/DSA_Practice/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0706-design-hashmap/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -696,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/shyama-odedra/DSA_Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1140-stone-game-ii/) | Medium |
