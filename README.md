@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/shyama-odedra/DSA_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1927-sum-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/1927-sum-game/) | Medium |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/shyama-odedra/DSA_Practice/tree/main/2193-minimum-number-of-moves-to-make-palindrome/) | Hard |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-new-21-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0837-new-21-game/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/shyama-odedra/DSA_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shyama-odedra/DSA_Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shyama-odedra/DSA_Practice/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
