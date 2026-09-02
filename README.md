@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shyama-odedra/DSA_Practice/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shyama-odedra/DSA_Practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/shyama-odedra/DSA_Practice/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shyama-odedra/DSA_Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
