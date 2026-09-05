@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0518-coin-change-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/shyama-odedra/DSA_Practice/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/shyama-odedra/DSA_Practice/tree/main/0622-design-circular-queue/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0454-4sum-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shyama-odedra/DSA_Practice/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/shyama-odedra/DSA_Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/shyama-odedra/DSA_Practice/tree/main/0705-design-hashset/) | Easy |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/shyama-odedra/DSA_Practice/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/shyama-odedra/DSA_Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/shyama-odedra/DSA_Practice/tree/main/0486-predict-the-winner/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/shyama-odedra/DSA_Practice/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0788-rotated-digits](https://github.com/shyama-odedra/DSA_Practice/tree/main/0788-rotated-digits/) | Medium |
@@ -704,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/shyama-odedra/DSA_Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/shyama-odedra/DSA_Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0523-continuous-subarray-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -948,4 +952,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
