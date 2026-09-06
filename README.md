@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/shyama-odedra/DSA_Practice/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/shyama-odedra/DSA_Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shyama-odedra/DSA_Practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/shyama-odedra/DSA_Practice/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/shyama-odedra/DSA_Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0205-isomorphic-strings](https://github.com/shyama-odedra/DSA_Practice/tree/main/0205-isomorphic-strings/) | Easy |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/shyama-odedra/DSA_Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/shyama-odedra/DSA_Practice/tree/main/0062-unique-paths/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shyama-odedra/DSA_Practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [0115-distinct-subsequences](https://github.com/shyama-odedra/DSA_Practice/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/shyama-odedra/DSA_Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/shyama-odedra/DSA_Practice/tree/main/0140-word-break-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
