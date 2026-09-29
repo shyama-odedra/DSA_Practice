@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/shyama-odedra/DSA_Practice/tree/main/0706-design-hashmap/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/shyama-odedra/DSA_Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shyama-odedra/DSA_Practice/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shyama-odedra/DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -381,12 +382,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shyama-odedra/DSA_Practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shyama-odedra/DSA_Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shyama-odedra/DSA_Practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/shyama-odedra/DSA_Practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shyama-odedra/DSA_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/shyama-odedra/DSA_Practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shyama-odedra/DSA_Practice/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/shyama-odedra/DSA_Practice/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -423,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0912-sort-an-array/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shyama-odedra/DSA_Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1122-relative-sort-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/shyama-odedra/DSA_Practice/tree/main/1333-filter-restaurants-by-vegan-friendly-price-and-distance/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shyama-odedra/DSA_Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -506,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shyama-odedra/DSA_Practice/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/shyama-odedra/DSA_Practice/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shyama-odedra/DSA_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shyama-odedra/DSA_Practice/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/shyama-odedra/DSA_Practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/shyama-odedra/DSA_Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shyama-odedra/DSA_Practice/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
