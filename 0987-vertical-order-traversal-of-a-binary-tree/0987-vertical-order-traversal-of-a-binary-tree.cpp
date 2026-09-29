@@ -1,41 +1,35 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int, map<int, multiset<int>>> nodes;
-        
+        vector<tuple<int, int, int>> nodes;
         queue<pair<TreeNode*, pair<int, int>>> q;
         
-        if (root) {
-            q.push({root, {0, 0}});
-        }
+        if (root) q.push({root, {0, 0}});
 
         while (!q.empty()) {
-            auto p = q.front();
+            auto [node, pos] = q.front();
+            auto [row, col] = pos;
             q.pop();
 
-            TreeNode* temp = p.first;
-            int row = p.second.first;
-            int col = p.second.second;
+            nodes.push_back({col, row, node->val});
 
-            nodes[col][row].insert(temp->val);
-
-            if (temp->left) {
-                q.push({temp->left, {row + 1, col - 1}});
-            }
-            if (temp->right) {
-                q.push({temp->right, {row + 1, col + 1}});
-            }
+            if (node->left) q.push({node->left, {row + 1, col - 1}});
+            if (node->right) q.push({node->right, {row + 1, col + 1}});
         }
+
+        sort(nodes.begin(), nodes.end());
 
         vector<vector<int>> ans;
-        ans.reserve(nodes.size());
+        int last_col = INT_MIN;
 
-        for (auto& [col, rowMap] : nodes) {
-            ans.emplace_back();
-            for (auto& [row, valSet] : rowMap) {
-                ans.back().insert(ans.back().end(), valSet.begin(), valSet.end());
+        for (auto& [col, row, val] : nodes) {
+            if (ans.empty() || col != last_col) {
+                ans.push_back({});
+                last_col = col;
             }
+            ans.back().push_back(val);
         }
+
         return ans;
     }
 };
