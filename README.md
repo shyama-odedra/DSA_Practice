@@ -946,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/shyama-odedra/DSA_Practice/tree/main/0175-combine-two-tables/) | Easy |
+| [0180-consecutive-numbers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shyama-odedra/DSA_Practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/shyama-odedra/DSA_Practice/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/shyama-odedra/DSA_Practice/tree/main/0550-game-play-analysis-iv/) | Medium |
